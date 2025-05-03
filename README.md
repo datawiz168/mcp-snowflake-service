@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/datawiz168-mcp-snowflake-service-badge.png)](https://mseep.ai/app/datawiz168-mcp-snowflake-service)
+
 A Model Context Protocol (MCP) server that provides Claude access to Snowflake databases. / 一个为 Claude 提供 Snowflake 数据库访问能力的 MCP (模型上下文协议) 服务器。
 
 ![GitHub Stars](https://img.shields.io/github/stars/datawiz168/mcp-snowflake-service?style=social)
